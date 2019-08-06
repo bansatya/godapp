@@ -1,0 +1,2 @@
+# godapp
+native go binding
